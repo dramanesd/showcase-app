@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "showcase-app",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -18,15 +18,7 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DramaneD/react-boilerplate.git"
-  },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/DramaneD/react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/DramaneD/react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.4",
@@ -61,5 +53,13 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-hot-loader": "^4.12.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DramaneD/showcase-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DramaneD/showcase-app/issues"
+  },
+  "homepage": "https://github.com/DramaneD/showcase-app#readme"
 }

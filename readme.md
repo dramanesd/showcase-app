@@ -1,1 +1,1 @@
-# React Boilerplate
+# Showcase App Template for Future Application
