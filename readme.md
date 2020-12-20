@@ -1,1 +1,1 @@
-# Showcase App Template for Future Application
+## Showcase App Template for Future Application
